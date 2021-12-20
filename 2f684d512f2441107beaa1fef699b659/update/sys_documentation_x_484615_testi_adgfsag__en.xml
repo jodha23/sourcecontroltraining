@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Adgfsag" language="en" table="x_484615_testi_adgfsag">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Adgfsag</label>
+            <language>en</language>
+            <name>x_484615_testi_adgfsag</name>
+            <plural>Adgfsags</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-19 18:44:05</sys_created_on>
+            <sys_id>369885912f2441107beaa1fef699b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Adgfsag</sys_name>
+            <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+            <sys_update_name>sys_documentation_x_484615_testi_adgfsag__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-19 18:44:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Adgfsag" max_length="40" name="x_484615_testi_adgfsag" sizeclass="0" type="collection">
+        <element label="Aedfdsf" max_length="40" name="aedfdsf" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
