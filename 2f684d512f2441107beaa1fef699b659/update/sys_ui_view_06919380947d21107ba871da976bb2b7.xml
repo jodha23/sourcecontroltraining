@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Workspace-Testi-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 03:11:02</sys_created_on>
+        <sys_id>06919380947d21107ba871da976bb2b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workspace Testi 0</sys_name>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>sys_ui_view_06919380947d21107ba871da976bb2b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 03:11:43</sys_updated_on>
+        <title>Workspace Testi 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Testi">ca919380567d2110707ab4f0498f0ec1</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 03:11:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>02919380c07d21106cc1f3873ea96cc0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>sys_ux_page_property_02919380c07d21106cc1f3873ea96cc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 03:11:08</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_484615_testi.ca919380567d2110707ab4f0498f0ec1.root.listConfigId</unique_name>
+        <value>88a117802f7d21107beaa1fef699b622</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=02919380c07d21106cc1f3873ea96cc0"/>
+</record_update>

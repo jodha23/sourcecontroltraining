@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="Testi - Workspace Search">0e919380a17d2110a4da8b1102be37bb</search_context_config>
+        <source display_value="Testi - x_484615_testi_sub_premises">31a157802f7d21107beaa1fef699b6bb</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 03:11:17</sys_created_on>
+        <sys_id>aea197802f7d21107beaa1fef699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_aea197802f7d21107beaa1fef699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 03:11:17</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

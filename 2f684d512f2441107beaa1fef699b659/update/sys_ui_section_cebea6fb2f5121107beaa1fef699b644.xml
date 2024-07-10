@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="cebea6fb2f5121107beaa1fef699b644" sys_domain="global" table="x_484615_testi_sub_premises" version="3" view="sp">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-29 14:15:22</sys_created_on>
+            <sys_id>5866fab62fbda1107beaa1fef699b653</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484615_testi_sub_premises" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">cebea6fb2f5121107beaa1fef699b644</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-29 14:15:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_reference_csm</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-29 14:15:22</sys_created_on>
+            <sys_id>1066fab62fbda1107beaa1fef699b654</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_484615_testi_sub_premises" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">cebea6fb2f5121107beaa1fef699b644</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-29 14:15:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_484615_testi_sub_premises</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-07 19:44:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cebea6fb2f5121107beaa1fef699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_484615_testi_sub_premises</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+            <sys_update_name>sys_ui_section_cebea6fb2f5121107beaa1fef699b644</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-07 19:44:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Service Portal" name="sp">ec2daaf9d7523100a9ad1e173e24d4ea</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

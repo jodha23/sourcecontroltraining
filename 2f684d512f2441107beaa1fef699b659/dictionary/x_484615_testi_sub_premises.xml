@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a637d5872fe421107beaa1fef699b67d" label="Sub Premises" max_length="40" name="x_484615_testi_sub_premises" text_index="true" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="test reference csm" max_length="32" name="test_reference_csm" reference="x_484615_testi_test_for_csm" type="reference"/>
+        <index name="index">
+            <element name="test_reference_csm"/>
+        </index>
+    </element>
+</database>

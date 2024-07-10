@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Adgfsag" max_length="40" name="x_484615_testi_adgfsag" sizeclass="0" type="collection">
+    <element db_object_id="2e9885912f2441107beaa1fef699b6f3" label="Adgfsag" max_length="40" name="x_484615_testi_adgfsag" text_index="true" type="collection">
         <element label="Aedfdsf" max_length="40" name="aedfdsf" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="160" name="short_description" type="string"/>
     </element>
 </database>

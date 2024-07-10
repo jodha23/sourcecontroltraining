@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Testi">ca919380567d2110707ab4f0498f0ec1</page>
+        <required_translations>[ {
+  "message" : "New Adgfsag",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Sub Premises",
+  "comment" : ""
+}, {
+  "message" : "New asfasfaf",
+  "comment" : ""
+}, {
+  "message" : "New test for csm",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 03:11:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>8e919380547d211067a2343a819de1c1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>sys_ux_page_property_8e919380547d211067a2343a819de1c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 03:11:34</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_484615_testi.ca919380567d2110707ab4f0498f0ec1.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New asfasfaf"},"routeInfo":{"route":"record","fields":{"table":"x_484615_testi_asfasfaf","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_484615_testi_asfasfaf","canCreate":true}}},{"label":{"translatable":true,"message":"New Sub Premises"},"routeInfo":{"route":"record","fields":{"table":"x_484615_testi_sub_premises","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_484615_testi_sub_premises","canCreate":true}}},{"label":{"translatable":true,"message":"New test for csm"},"routeInfo":{"route":"record","fields":{"table":"x_484615_testi_test_for_csm","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_484615_testi_test_for_csm","canCreate":true}}},{"label":{"translatable":true,"message":"New Adgfsag"},"routeInfo":{"route":"record","fields":{"table":"x_484615_testi_adgfsag","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_484615_testi_adgfsag","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=8e919380547d211067a2343a819de1c1"/>
+</record_update>

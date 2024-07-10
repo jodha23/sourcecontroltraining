@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_angular_provider">
+    <sp_angular_provider action="INSERT_OR_UPDATE">
+        <name>arcgismaprender</name>
+        <script><![CDATA[function arcgismaprender() {
+    require([
+        "esri/config",
+        "esri/WebMap",
+        "esri/views/MapView",
+        "esri/widgets/ScaleBar",
+        "esri/widgets/Legend"
+    ], function(esriConfig, WebMap, MapView, ScaleBar, Legend) {
+
+        esriConfig.apiKey = "AAPKc2b0df5c984745359eb08cbb7f970261EU_hHN-ui3KFEqqfClxLu3oA8RURJrJ1pdPy479xcFZ36Z30vKvcWjhsGgqDhCXy";
+
+        var webmap = new WebMap({
+            portalItem: {
+                id: "2f65f24a3f9e4ff688bd5fe02dd32396"
+            }
+        });
+
+        var view = new MapView({
+            container: "viewDiv",
+            map: webmap
+
+        });
+
+        var scalebar = new ScaleBar({
+            view: view
+        });
+
+        view.ui.add(scalebar, "bottom-left");
+
+        var legend = new Legend({
+            view: view
+        });
+        view.ui.add(legend, "top-right");
+
+    });
+}]]></script>
+        <sys_class_name>sp_angular_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 17:58:49</sys_created_on>
+        <sys_id>0582611b2f5621107beaa1fef699b6d3</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>arcgismaprender</sys_name>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>sp_angular_provider_0582611b2f5621107beaa1fef699b6d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 21:30:03</sys_updated_on>
+        <type>service</type>
+    </sp_angular_provider>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Testi">46919380ef7d2110594d84e5badabcb2</dashboard>
+        <experience display_value="Testi">ca919380567d2110707ab4f0498f0ec1</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-21 03:10:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c2919380547d2110b8d8a03b9c29fdba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>par_dashboard_visibility_c2919380547d2110b8d8a03b9c29fdba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-21 03:10:59</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

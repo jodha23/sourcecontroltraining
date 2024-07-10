@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ce02878c2f3921107beaa1fef699b6d1" extends="sn_customerservice_case" label="Caso" max_length="40" name="x_484615_testi_test_for_csm" text_index="true" type="collection">
+        <element label="Testing ref record" max_length="32" name="testing_ref_record" reference="x_484615_testi_sub_premises" type="reference"/>
+    </element>
+</database>

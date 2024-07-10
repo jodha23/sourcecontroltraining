@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller = function($timeout) {
+    /* widget controller */
+    var c = this;
+//     c.load = $timeout(
+// 		function() {
+//         require([
+//             "esri/config",
+//             "esri/WebMap",
+//             "esri/views/MapView",
+//             "esri/widgets/ScaleBar",
+//             "esri/widgets/Legend"
+//         ], function(esriConfig, WebMap, MapView, ScaleBar, Legend) {
+
+//             esriConfig.apiKey = "AAPKc2b0df5c984745359eb08cbb7f970261EU_hHN-ui3KFEqqfClxLu3oA8RURJrJ1pdPy479xcFZ36Z30vKvcWjhsGgqDhCXy";
+
+//             var webmap = new WebMap({
+//                 portalItem: {
+//                     id: "2f65f24a3f9e4ff688bd5fe02dd32396"
+//                 }
+//             });
+
+//             var view = new MapView({
+//                 container: "viewDiv",
+//                 map: webmap
+
+//             });
+
+//             var scalebar = new ScaleBar({
+//                 view: view
+//             });
+
+//             view.ui.add(scalebar, "bottom-left");
+
+//             var legend = new Legend({
+//                 view: view
+//             });
+//             view.ui.add(legend, "top-right");
+
+//         });
+  //  }, 50000);
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description>Experimenting with arcgis javascript api</description>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>arcgis_map</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Arcgis Map</name>
+        <option_schema>[]</option_schema>
+        <public>false</public>
+        <roles>snc_external,snc_internal</roles>
+        <script><![CDATA[(function() {
+    /* populate the 'data' object */
+    /* e.g., data.table = $sp.getValue('table'); */
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 13:19:27</sys_created_on>
+        <sys_id>95d2e8132f5221107beaa1fef699b69e</sys_id>
+        <sys_mod_count>84</sys_mod_count>
+        <sys_name>Arcgis Map</sys_name>
+        <sys_package display_value="Testi" source="x_484615_testi">2f684d512f2441107beaa1fef699b659</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testi">2f684d512f2441107beaa1fef699b659</sys_scope>
+        <sys_update_name>sp_widget_95d2e8132f5221107beaa1fef699b69e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-25 14:16:43</sys_updated_on>
+        <template><![CDATA[<div id="viewDiv" ng-init="c.load()">jhakas</div>
+]]></template>
+    </sp_widget>
+</record_update>
